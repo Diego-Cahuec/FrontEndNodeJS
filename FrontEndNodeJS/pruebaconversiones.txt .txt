@@ -1,0 +1,16 @@
+Prueba función: ConversorCaF 
+Grados en centigrados: 25 
+Grados Farenheit: 77
+ ----------
+Prueba función: ConversorKaM 
+ KILOMETROS:10 
+ MILLAS: 6.21371
+ ----------
+Prueba función: ConversorPaC 
+ Pulgadas: 5 
+ Centimetros: 12.7
+ ----------
+Prueba función: ConversorPaP 
+ Pies:5 
+ Pulgadas: 60 
+ ----------
